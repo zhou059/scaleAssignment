@@ -16,7 +16,7 @@ Additional future considerations for further development can be found [here](htt
 
 ## Usage
 
-  python auditScaleProject.py -k <string> -p <string> -o <string> 
+  `python auditScaleProject.py -k <string> -p <string> -o <string>`
 
 ## Options
   
