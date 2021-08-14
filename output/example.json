@@ -1,0 +1,398 @@
+{
+    "project_name": "Traffic Sign Detection",
+    "description": "Audit report of all bounding box annotations for tasks in identified project",
+    "issues": [
+        {
+            "task_id": "5f127f6f26831d0010e985e5",
+            "annotation_id": "50fde071-d81d-4a21-8315-e831d5263b8f",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f6f26831d0010e985e5",
+            "annotation_id": "ada7893a-3ee1-4d69-b06b-87240a9522cd",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not yellow, but green instead"
+        },
+        {
+            "task_id": "5f127f6f26831d0010e985e5",
+            "annotation_id": "df8c17ab-5055-480f-a75b-70561997b60b",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not yellow, but green instead"
+        },
+        {
+            "task_id": "5f127f6c3a6b1000172320ad",
+            "annotation_id": "c8dd26d1-8cc5-4d96-8012-23b744871fcc",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f699740b80017f9b170",
+            "annotation_id": "49a40bd1-788b-4741-b20f-10577c13f6c3",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f699740b80017f9b170",
+            "annotation_id": "fdae05b8-a506-4a8f-9e5b-44006f24b1f7",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f699740b80017f9b170",
+            "annotation_id": "da493933-bb23-4179-a3ce-16c2b8b14d8c",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not red, but green instead"
+        },
+        {
+            "task_id": "5f127f699740b80017f9b170",
+            "annotation_id": "15e7ee7c-ae01-434d-a0b7-54d4403d5533",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not red, but green instead"
+        },
+        {
+            "task_id": "5f127f699740b80017f9b170",
+            "annotation_id": "e341eb36-7501-4413-9609-6d2244511000",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not red, but green instead"
+        },
+        {
+            "task_id": "5f127f699740b80017f9b170",
+            "annotation_id": "2b0b1670-30be-4573-9fa3-c1aa9b51802a",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not red, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "b4efc369-f34e-4e55-97b3-fc380ad4dcbd",
+            "type": "Warning",
+            "code": "2004",
+            "description": "It is likely that this sign should be annotated as partially truncated"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "b4efc369-f34e-4e55-97b3-fc380ad4dcbd",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but orange instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "07acd587-b5e9-4917-a4fe-28f01674788b",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "334459e5-a06e-42ba-b757-ce6c88f72769",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not blue, but white instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "c40b230e-d938-4d56-a2f5-0f0cc60242f1",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "8d84dc05-e65c-458b-9d98-fac144e5eca7",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "10730b6d-cf0a-4479-a0e3-50f6b728ed4b",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "1989cfb0-05b1-4631-84b0-f01c7e5c46f7",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but orange instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "26525d34-d428-403c-8fa5-d153d354f335",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but orange instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "64eb36b3-aa8f-4672-8e2c-2504e728187d",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "09e14631-f788-456e-a988-0b249bf6c3dc",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "553d8f3a-8a91-4834-a415-50b29034aa23",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "707eba7e-2015-4aa2-bcce-f712506cdca9",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "00610d41-fd17-4e9a-97ff-6d33e07102ad",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but orange instead"
+        },
+        {
+            "task_id": "5f127f671ab28b001762c204",
+            "annotation_id": "22df517a-b4b9-47b6-9785-fcee86cfc1ca",
+            "type": "Warning",
+            "code": "2004",
+            "description": "It is likely that this sign should be annotated as partially truncated"
+        },
+        {
+            "task_id": "5f127f643a6b1000172320a5",
+            "annotation_id": "6fc799c0-6bc3-45c2-a15a-10a6d0fd4d08",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f643a6b1000172320a5",
+            "annotation_id": "07947742-86ba-4632-ac29-2f8f5b9c8fb0",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "9a3eac82-aeca-48df-a58f-76179d26e8ac",
+            "type": "Warning",
+            "code": "2004",
+            "description": "It is likely that this sign should be annotated as partially truncated"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "1e6d591d-0ae5-4710-99da-8f0baf03d63a",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not green, but white instead"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "daeedc6f-3c26-4eed-9adb-c4454b7b0695",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not green, but white instead"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "478496a5-1d09-4d53-889a-ef56a561b54b",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not orange, but green instead"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "45ba8760-8e8b-442b-8a24-5be005d47bb4",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "0ac0c72e-d384-4039-80bb-7ac9d71a4d87",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "25e6e90c-7acb-4786-a0fb-ca7b10fc3687",
+            "type": "Warning",
+            "code": "2001",
+            "description": "The bounding box is over 20% of the image, recommend to check if accurate"
+        },
+        {
+            "task_id": "5f127f5f3a6b100017232099",
+            "annotation_id": "25e6e90c-7acb-4786-a0fb-ca7b10fc3687",
+            "type": "Warning",
+            "code": "2004",
+            "description": "It is likely that this sign should be annotated as partially truncated"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "80d5d8f9-82f5-4369-87cf-78f0fd846e21",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not blue, but red instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "879a6a14-a842-4d4d-b8a0-69e29720ec46",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not yellow, but white instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "fcc605e8-7f32-419d-a0e4-835304d6b200",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "0030ab4f-8b05-4ea0-b1d9-204a379d3409",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "68db80c5-a557-4ff1-a8ca-8f38deb29a94",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "63c2ba36-e218-4874-bb29-ba1e1cf11b42",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "b124ea9b-898f-4370-9e2d-a3044b54e8e0",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "3fb2176f-3801-408e-aa22-76519f8dcb91",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "c46a8006-591d-483d-a375-983b02b158a9",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not red, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "f631300f-5a36-4e2a-a093-eb3f4d911577",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not yellow, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "39d634f5-df0e-4ef6-b327-06d467d68e64",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not yellow, but green instead"
+        },
+        {
+            "task_id": "5f127f5ab1cb1300109e4ffc",
+            "annotation_id": "02d596ed-dfc2-4b3c-aafd-9f309c7ef248",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not red, but green instead"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "ba0d00b6-cd39-42bd-b977-a8a15cc474de",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "cccda4ab-2cf6-43c6-97d3-5616152ed974",
+            "type": "Warning",
+            "code": "2003",
+            "description": "The main color detected was not white, but green instead"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "97319a82-2635-4785-9589-ff7e0b67bf81",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "31b6471b-0af3-4eb0-9923-57ca32972fde",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "b43ba10e-0507-4eaf-ba67-c6fb49d6beca",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "3d2d21c8-7c44-4c04-911b-168c22db6b48",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "61f914e3-5699-4e7c-b3be-c9722b43c229",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "17b437ad-168b-47c6-92de-3b308157ce0b",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        },
+        {
+            "task_id": "5f127f55fdc4150010e37244",
+            "annotation_id": "5111c4d1-5f26-4860-a834-b3890ae5d362",
+            "type": "Error",
+            "code": "1001",
+            "description": "The bounding box is too small"
+        }
+    ]
+}
