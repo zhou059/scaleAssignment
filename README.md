@@ -1,6 +1,8 @@
 <h1 align="center">Traffic Sign Image Audit Script</h1>
 <p align="center">This python script detects possible lower quality bounding box annotations of traffic signs in a Scale project </p>
 
+---
+
 Accessing all tasks in a specified project, this python script will parse annotations and the image for all tasks to perform the following quality checks: 
 * Bounding boxes are too small (under 5 pixels in length or width)
 * Bounding boxes are too big (over 20% of the entire image)
@@ -12,11 +14,11 @@ Accessing all tasks in a specified project, this python script will parse annota
 
 Additional future considerations for further development can be found [here](https://docs.google.com/document/d/1BKpX0U7eqsFPwtqEx7-WqSt86RT5XMuZP2wPSH7qTkA/edit?usp=sharing)
 
-USAGE
+## Usage
 
   python auditScaleProject.py -k <string> -p <string> -o <string> 
 
-OPTIONS
+## Options
   
   -k, --apikey=apikey                                                               Key for authenticating with Scale SDK
 
@@ -27,7 +29,7 @@ OPTIONS
                                                                                     containing all errors and warning
                                                                                     detected in the project tasks
 
-EXAMPLE
+## Example
   python auditScaleProject.py -k live_####################### -p "Traffic Sign Detection" -o ./output/results.json
   // For all tasks in the 'Traffic Sign Detection' project, detect errors and warnings and write results to the 
   // output/results.json file
