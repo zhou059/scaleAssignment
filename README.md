@@ -20,14 +20,14 @@ USAGE
   python auditScaleProject.py -k <string> -p <string> -o <string>
 
 OPTIONS
-  -k, --apikey=apikey                                                               Key for authenticating with Scale SDK
+  -k, --apikey=apikey                   Key for authenticating with Scale SDK
 
-  -p, --projectname=projectname                                                     Project name that contains all the
-                                                                                    traffic sign annotation tasks to audit
+  -p, --projectname=projectname         Project name that contains all the
+                                        traffic sign annotation tasks to audit
 
-  -o, --outputfile=outputfile                                                       Output file to write the JSON report
-                                                                                    containing all errors and warning
-                                                                                    detected in the project tasks
+  -o, --outputfile=outputfile           Output file to write the JSON report
+                                        containing all errors and warning
+                                        detected in the project tasks
 
 EXAMPLE
   python auditScaleProject.py -k live_####################### -p "Traffic Sign Detection" -o ./output/results.json
