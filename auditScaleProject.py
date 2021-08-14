@@ -7,9 +7,9 @@ import sys, getopt
 
 def main(argv):
     # Input parameters
-    apiKey = "live_c3cec48826bc4476a0e5034712f4335c"
-    projectName = "Traffic Sign Detection"
-    outputFile="./results.json"
+    apiKey = ""
+    projectName = ""
+    outputFile=""
 
     # Collection of issues to be included in the final output
     issues = []
@@ -20,11 +20,11 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv,"hk:p:o:",["apikey=","project name=","output file="])
     except getopt.GetoptError:
-        print('auditScaleProject.py -k <api key> -p <project name> -o <output file>')
+        print('python auditScaleProject.py -k <api key> -p <project name> -o <output file>')
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print('auditScaleProject.py -k <api key> -p <project name> -o <output file>')
+            print('python auditScaleProject.py -k <api key> -p <project name> -o <output file>')
             sys.exit()
         elif opt in ("-k", "--apikiey"):
             apiKey = arg
