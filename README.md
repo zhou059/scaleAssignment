@@ -19,7 +19,7 @@ Additional future considerations for further development can be found [here](htt
   `python auditScaleProject.py -k <string> -p <string> -o <string>`
 
 ## Options
-`  
+```
   -k, --apikey=apikey                                                               Key for authenticating with Scale SDK
 
   -p, --projectname=projectname                                                     Project name that contains all the
@@ -28,7 +28,7 @@ Additional future considerations for further development can be found [here](htt
   -o, --outputfile=outputfile                                                       Output file to write the JSON report
                                                                                     containing all errors and warning
                                                                                     detected in the project tasks
-`
+```
 ## Example
   python auditScaleProject.py -k live_####################### -p "Traffic Sign Detection" -o ./output/results.json
   
